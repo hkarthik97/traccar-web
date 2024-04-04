@@ -53,7 +53,7 @@ import DeviceConnectionsPage from "./settings/DeviceConnectionsPage";
 import GroupConnectionsPage from "./settings/GroupConnectionsPage";
 import UserConnectionsPage from "./settings/UserConnectionsPage";
 import LogsPage from "./reports/LogsPage";
-
+//test
 const Navigation = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
