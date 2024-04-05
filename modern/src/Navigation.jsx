@@ -43,6 +43,7 @@ import { devicesActions } from "./store";
 import EventPage from "./other/EventPage";
 import PreferencesPage from "./settings/PreferencesPage";
 import AccumulatorsPage from "./settings/AccumulatorsPage";
+import AnnouncementPage from "./settings/AnnouncementPage";
 import CommandDevicePage from "./settings/CommandDevicePage";
 import CommandGroupPage from "./settings/CommandGroupPage";
 import App from "./App";
